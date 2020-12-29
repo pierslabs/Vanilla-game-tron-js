@@ -1,2 +1,2 @@
 # tron-js
-first project with js 
+only js
